@@ -73,6 +73,20 @@
     body {
       @apply bg-background text-foreground;
     }
+    
+    /* Improved typography and spacing */
+    p {
+      @apply leading-relaxed;
+    }
+    
+    h1, h2, h3, h4, h5, h6 {
+      @apply leading-tight;
+    }
+    
+    /* Better line spacing for readability */
+    .prose {
+      @apply leading-relaxed;
+    }
   }
 
   h3 code {
