@@ -12,7 +12,7 @@ const fontSans = FontSans({
   variable: "--font-sans",
 });
 
-export const metadata: Metadata = {
+export const metadata: Metadata = { 
   metadataBase: new URL(DATA.url),
   title: {
     default: DATA.name,

@@ -1,5 +1,5 @@
 import { Icons } from "@/components/icons";
-import { HomeIcon, NotebookIcon } from "lucide-react";
+import { HomeIcon, NotebookIcon, FileDown } from "lucide-react";
 
 export const DATA = {
   name: "Boldchingis Portfolio ",
@@ -29,7 +29,9 @@ export const DATA = {
     "Prisma",
   ],
   navbar: [
-    { href: "/", icon: HomeIcon, label: "Home" },  ],
+    { href: "/", icon: HomeIcon, label: "Home" },
+    { href: "/Boldchingis-resume.pdf", icon: FileDown, label: "Resume" },
+  ],
   contact: {
     email: "bboldchingis@gmail.com",
     tel: "+97699498619",

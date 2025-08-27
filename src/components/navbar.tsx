@@ -26,6 +26,10 @@ export default function Navbar() {
                     buttonVariants({ variant: "ghost", size: "icon" }),
                     "size-12"
                   )}
+                  {...(item.label === "Resume" && {
+                    download: "Boldchingis-Resume.pdf",
+                    target: "_blank"
+                  })}
                 >
                   <item.icon className="size-4" />
                 </Link>
