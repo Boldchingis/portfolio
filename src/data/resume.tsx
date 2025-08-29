@@ -74,7 +74,7 @@ export const DATA = {
       start: "2025 (May)",
       end: "2025 (June)",
       description:
-        "Worked around 70 hours as a frontend developer on an office rental website. Developed user-friendly interfaces using React.js, JavaScript, REST API integration, and Tailwind CSS to create smooth and responsive web applications.",
+        "Worked as a frontend developer for three weeks on an office rental website. Developed user-friendly interfaces using React.js, JavaScript, Tailwind CSS, and integrated REST APIs to create smooth and responsive web applications.",
     },
     {
       company: "Pinecone Studio",
