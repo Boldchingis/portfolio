@@ -103,7 +103,7 @@ export const DATA = {
     {
       title: "Rently | Office Rental Website",
       href: "http://zevtabs.mn:3001/",
-      dates: "2024",
+      dates: "2025",
       active: true,
       description:
         "I worked around 70 hours as a frontend developer for Zevtab LLC on this office rental website. Built responsive and user-friendly interfaces with smooth navigation.",
@@ -126,7 +126,7 @@ export const DATA = {
     {
       title: "Restaurant Website (Pinecone Intern)",
       href: "https://restaurant-frontend-blond.vercel.app",
-      dates: "2023 (2-month internship)",
+      dates: "2025 (2-month internship)",
       active: true,
       description:
         "Built during a 2-month internship at Pinecone. I learned monorepo architecture and practiced testing with ESLint, unit tests, Cypress, and Jest.",
@@ -161,7 +161,7 @@ export const DATA = {
     {
       title: "E-commerce Website",
       href: "https://pineshop.vercel.app/",
-      dates: "2023",
+      dates: "2025",
       active: true,
       description:
         "A modern e-commerce site with smooth UI/UX, responsive design, and real money payment integration. Features advanced animations and search functionality.",
@@ -193,7 +193,7 @@ export const DATA = {
     {
       title: "Buy Me a Coffee Clone",
       href: "https://team-ctrl-z-frontend.vercel.app/",
-      dates: "2023",
+      dates: "2025",
       active: true,
       description:
         "My first team project—a clone of 'Buy Me a Coffee' without real payment integration. Built with modern web technologies and collaborative development practices.",
@@ -224,7 +224,7 @@ export const DATA = {
     {
       title: "Movie App",
       href: "https://movie-app-three-opal-51.vercel.app/",
-      dates: "2023",
+      dates: "2024",
       active: true,
       description:
         "A movie app with search, filters, and detailed info. Features a clean, modern design with API integration for movie data.",
@@ -252,7 +252,7 @@ export const DATA = {
     {
       title: "Weather App",
       href: "https://weather-app-steel-five-77.vercel.app/",
-      dates: "2023",
+      dates: "2024",
       active: true,
       description:
         "A real-time weather app showing current conditions, forecasts, and location-based data with a clean and intuitive interface.",
